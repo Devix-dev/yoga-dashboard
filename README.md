@@ -2,8 +2,6 @@
 
 A responsive web dashboard designed for yoga studios to manage students, class schedules, attendance tracking, and membership analytics.
 
-Live Demo: [management-dashboard-yoga.netlify.app](http://management-dashboard-yoga.netlify.app)
-
 ---
 
 ## Overview
